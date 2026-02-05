@@ -1,1 +1,1 @@
-# Django ToDo manager
+# Django ToDo Manager
